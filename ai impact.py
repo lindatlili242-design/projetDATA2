@@ -1,3 +1,4 @@
+# Modification de test pour GitHub - projet data science
 import pandas as pd 
 df = pd.read_csv('C:/Users/LENOVO/Desktop/projetDATA2/AI_Impact_Student_Life_2026.csv')
 #data exploration
